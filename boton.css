@@ -35,7 +35,7 @@
 }
 .icon-mas2{
     cursor: pointer;
-    background: #ffffff;
+    background: #0400ff;
     font-size: 23px;
 }
 #btn-mas:checked ~ .btn-mas .icon-mas2{

@@ -19,7 +19,7 @@ header {
 
 body {
 
-    background-color: rgb(228, 215, 215);
+    background-color: rgb(240, 238, 238);
 
 }
 
@@ -134,7 +134,7 @@ body {
     list-style: none;
     float: left;
     overflow: hidden;
-    width: 68%;
+    width: 100%;
     font-family: sans-serif;
 
 }
@@ -155,7 +155,7 @@ body {
     float: right;
     top: 0%;
     margin-top: 11px;
-    height: 217px;
+    height: 207px;
     border-radius: 22px;
 
 }
@@ -203,6 +203,7 @@ body {
     background-color: rgb(184, 155, 155);
     font-family: sans-serif;
     border: 1px solid black;
+    overflow: hidden;
 
 }
 
@@ -213,7 +214,8 @@ body {
     background-color: rgb(184, 155, 155);
     padding: 7px;
     border-radius: 4px;
-    font-size: 17px;
+    font-size: 100%;
+    overflow: hidden;
 
 }
 
@@ -283,7 +285,7 @@ body {
     border-radius: 4px;
     font-size: 90%;
     max-width: 700px;
-    overflow: hidden;
+    font-size: 83%;
     display: flex;
 	flex-wrap: wrap;
 

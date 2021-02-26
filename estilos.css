@@ -134,14 +134,15 @@ body {
     list-style: none;
     float: left;
     overflow: hidden;
-    width: 100%;
+    width: 80%;
     font-family: sans-serif;
+    border: 0px solid black;
 
 }
 
 #secciones_texto li {
 
-    border: 1px solid black;
+    border: 0px solid black;
     margin-bottom: 10px;
     background-color: rgb(184, 155, 155);
     padding: 7px;
@@ -151,11 +152,12 @@ body {
 
 .contenedor_body img {
 
-    width: 30%;
+    width: 18%;
     float: right;
     top: 0%;
     margin-top: 11px;
     height: 207px;
+    border: 0px solid black;
     border-radius: 22px;
 
 }

@@ -60,10 +60,9 @@ body {
 
 #titulo_cabecera img {
 
-    width: 35px;
+    width: 0px;
     float: left;
     margin: 35px;
-    cursor: pointer;
     margin-left: -1.5%;
 
 }

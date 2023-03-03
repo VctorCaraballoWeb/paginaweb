@@ -288,9 +288,9 @@ body {
     float: left;
     border-radius: 4px;
     width: 68%;
-    height: 195px;
+    height: auto;
+    padding-bottom: 10px;
     max-width: 68%;
-    max-height: 195px;
     background-color: rgb(184, 155, 155);
     font-family: sans-serif;
     border: 1px solid black;
